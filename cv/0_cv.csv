@@ -1,0 +1,42 @@
+,from,to
+0,general,computer science
+1,computer science,software
+2,general,numerical control system
+3,numerical control system,cnc
+4,general,optical fiber
+5,optical fiber,engineer
+6,general,computer system
+7,computer system,database
+8,general,knowledge
+9,knowledge,database
+10,general,devops
+11,devops,database
+12,general,datascience
+13,datascience,database
+14,general,ai engineer
+15,ai engineer,database
+16,general,computer operating system
+17,computer operating system,linux
+18,general,operating system
+19,operating system,linux
+20,general,scripting language
+21,scripting language,python
+22,general,programming language
+23,programming language,c++
+24,programming language,python
+25,general,sensor
+26,sensor,camera
+27,general,software architecture
+28,software architecture,software developer
+29,general,software design
+30,software design,software system
+31,general,object oriented programming
+32,object oriented programming,software system
+33,general,face recognition
+34,face recognition,face detection
+35,ai engineer,ai engineer
+37,ai engineer,programming language
+40,ai engineer,face recognition
+42,devops,devops
+44,devops,operating system
+46,devops,programming language

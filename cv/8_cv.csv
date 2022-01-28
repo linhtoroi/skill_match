@@ -1,0 +1,14 @@
+,from,to
+0,general,electronic commerce
+1,electronic commerce,purchasing
+2,electronic commerce,contract
+3,general,e commerce
+4,e commerce,purchasing
+5,e commerce,contract
+6,general,e commerce system
+7,e commerce system,purchasing
+8,e commerce system,contract
+9,general,computer science
+10,computer science,cad
+11,general,sale
+12,sale,purchasing

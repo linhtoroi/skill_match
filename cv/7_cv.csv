@@ -1,0 +1,126 @@
+,from,to
+0,general,project
+1,project,target
+2,general,information technology
+3,information technology,ebusiness
+4,general,user interface
+5,user interface,resource
+6,general,economics
+7,economics,sale
+8,general,app component
+9,app component,activity
+10,general,instrument
+11,instrument,activity
+12,general,sensor
+13,sensor,position
+14,general,data warehouse
+15,data warehouse,warehouse
+16,general,io developer
+17,io developer,project
+18,io developer,testing
+19,general,multithreading and concurrency
+20,multithreading and concurrency,operation
+21,general,electronic commerce
+22,electronic commerce,purchasing
+23,general,sale
+24,sale,purchasing
+25,general,e commerce
+26,e commerce,purchasing
+27,general,e commerce system
+28,e commerce system,purchasing
+29,general,regression analysis
+30,regression analysis,logistics
+31,regression analysis,logistic
+32,general,statistic
+33,statistic,logistics
+34,statistic,logistic
+35,general,correlation analysis
+36,correlation analysis,logistics
+37,correlation analysis,logistic
+38,general,statistical model
+39,statistical model,logistics
+40,statistical model,logistic
+41,general,statistical analysis
+42,statistical analysis,logistics
+43,statistical analysis,logistic
+44,general,activity
+45,activity,task
+46,general,pwa
+47,pwa,storage
+48,general,android developer
+49,android developer,storage
+50,general,frontend developer
+51,frontend developer,testing
+52,frontend developer,knowledge
+53,frontend developer,tool
+54,general,backend developer
+55,backend developer,testing
+56,backend developer,database
+57,backend developer,deploy
+58,backend developer,knowledge
+59,backend developer,tool
+60,general,devops
+61,devops,testing
+62,devops,database
+63,devops,deploy
+64,devops,knowledge
+65,devops,tool
+66,general,datascience
+67,datascience,database
+68,datascience,tool
+69,general,ai engineer
+70,ai engineer,database
+71,ai engineer,tool
+72,general,mathematics
+73,mathematics,optimization
+74,general,fullstack developer
+75,fullstack developer,database
+76,fullstack developer,testing
+77,fullstack developer,deploy
+78,fullstack developer,knowledge
+79,general,computer system
+80,computer system,database
+81,general,knowledge
+82,knowledge,database
+83,general,machine learning
+84,machine learning,training
+85,general,information system
+86,information system,elearning
+87,general,education
+88,education,elearning
+89,general,relational database system
+90,relational database system,sql
+91,general,relational database
+92,relational database,sql
+93,general,database
+94,database,sql
+95,general,transformer
+96,transformer,attention
+97,general,enterprise resource planning
+98,enterprise resource planning,erp system
+99,general,enterprise resource planning %28erp%29
+100,enterprise resource planning %28erp%29,erp system
+101,ios,project
+103,ios,instrument
+105,ios,io developer
+108,ios,multithreading and concurrency
+110,android,user interface
+112,android,app component
+114,android,sensor
+116,android,activity
+118,android,android developer
+120,frontend,pwa
+122,frontend,frontend developer
+126,ai engineer,ai engineer
+129,ai engineer,machine learning
+133,ai engineer,transformer
+135,backend,backend developer
+141,backend,knowledge
+143,backend,database
+145,data science,datascience
+148,data science,machine learning
+150,data science,database
+152,data science,transformer
+154,devops,devops
+162,fullstack,fullstack developer
+167,fullstack,database

@@ -1,0 +1,65 @@
+,from,to
+0,general,machine learning
+1,machine learning,training
+2,general,frontend developer
+3,frontend developer,knowledge
+4,general,backend developer
+5,backend developer,database
+6,backend developer,knowledge
+7,general,fullstack developer
+8,fullstack developer,database
+9,fullstack developer,knowledge
+10,general,devops
+11,devops,database
+12,devops,knowledge
+13,general,knowledge
+14,knowledge,database
+15,knowledge,algorithm
+16,knowledge,data structure
+17,general,computer system
+18,computer system,database
+19,general,datascience
+20,datascience,database
+21,general,ai engineer
+22,ai engineer,database
+23,general,xml
+24,xml,html
+25,general,user interface
+26,user interface,html
+27,general,extensible markup language %28xml%29
+28,extensible markup language %28xml%29,html
+29,general,extensible markup language
+30,extensible markup language,html
+31,general,programming language
+32,programming language,cs
+33,programming language,html
+34,programming language,javascript
+35,general,javascript
+36,javascript,cs
+37,general,html
+38,html,cs
+39,general,hypertext markup language
+40,hypertext markup language,cs
+41,general,hypertext markup language %28html%29
+42,hypertext markup language %28html%29,cs
+43,general,world wide web
+44,world wide web,javascript
+45,general,scripting language
+46,scripting language,javascript
+47,ai engineer,machine learning
+49,ai engineer,ai engineer
+51,ai engineer,programming language
+53,data science,machine learning
+55,data science,datascience
+57,data science,programming language
+59,backend,backend developer
+62,backend,knowledge
+66,backend,programming language
+68,devops,devops
+74,devops,programming language
+76,frontend,frontend developer
+78,frontend,knowledge
+81,frontend,programming language
+85,fullstack,fullstack developer
+88,fullstack,knowledge
+91,fullstack,programming language

@@ -1,0 +1,71 @@
+,from,to
+0,general,information technology
+1,information technology,e-commerce
+2,information technology,ebusiness
+3,general,economics
+4,economics,commerce
+5,general,internet
+6,internet,e-commerce
+7,general,computer science
+8,computer science,software
+9,general,knowledge
+10,knowledge,restful
+11,knowledge,responsive
+12,general,framework
+13,framework,jquery
+14,framework,vuejs
+15,general,world wide web
+16,world wide web,javascript
+17,general,scripting language
+18,scripting language,javascript
+19,general,programming language
+20,programming language,javascript
+21,general,frontend developer
+22,frontend developer,tool
+23,frontend developer,knowledge
+24,general,html
+25,html,html5
+26,general,hypertext markup language
+27,hypertext markup language,html5
+28,general,hypertext markup language %28html%29
+29,hypertext markup language %28html%29,html5
+30,general,cs preprocessors
+31,cs preprocessors,sas
+32,cs preprocessors,sc
+33,general,library
+34,library,sas
+35,general,source control
+36,source control,git
+37,general,datascience
+38,datascience,tool
+39,general,ai engineer
+40,ai engineer,tool
+41,general,education
+42,education,university
+43,general,rest
+44,rest,restful
+45,general,user interface
+46,user interface,user experience
+47,general,human engineering
+48,human engineering,user experience
+49,general,software product
+50,software product,software development
+51,general,software project
+52,software project,software development
+53,general,software process
+54,software process,software development
+55,general,software architecture
+56,software architecture,software development
+57,general,fault tolerance
+58,fault tolerance,high availability
+59,general,telecommunication network
+60,telecommunication network,high availability
+61,general,cloud computing
+62,cloud computing,high availability
+63,frontend,knowledge
+65,frontend,framework
+68,frontend,programming language
+70,frontend,frontend developer
+73,frontend,cs preprocessors
+76,frontend,source control
+78,frontend,rest

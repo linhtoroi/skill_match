@@ -1,0 +1,50 @@
+,from,to
+0,general,instrument
+1,instrument,network
+2,general,education
+3,education,library
+4,general,frontend developer
+5,frontend developer,library
+6,general,fullstack developer
+7,fullstack developer,build
+8,fullstack developer,library
+9,general,datascience
+10,datascience,library
+11,general,ai engineer
+12,ai engineer,library
+13,general,cs framework
+14,cs framework,bootstrap
+15,general,framework
+16,framework,bootstrap
+17,general,xml
+18,xml,html
+19,general,user interface
+20,user interface,html
+21,general,extensible markup language %28xml%29
+22,extensible markup language %28xml%29,html
+23,general,extensible markup language
+24,extensible markup language,html
+25,general,programming language
+26,programming language,cs
+27,programming language,html
+28,programming language,javascript
+29,general,javascript
+30,javascript,cs
+31,general,html
+32,html,cs
+33,general,hypertext markup language
+34,hypertext markup language,cs
+35,general,hypertext markup language %28html%29
+36,hypertext markup language %28html%29,cs
+37,general,world wide web
+38,world wide web,javascript
+39,general,scripting language
+40,scripting language,javascript
+41,frontend,frontend developer
+43,frontend,cs framework
+45,frontend,framework
+47,frontend,programming language
+51,fullstack,fullstack developer
+54,fullstack,cs framework
+56,fullstack,framework
+58,fullstack,programming language

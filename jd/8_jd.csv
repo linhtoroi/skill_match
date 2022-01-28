@@ -1,0 +1,67 @@
+,from,to
+0,general,computer science
+1,computer science,information technology
+2,computer science,software
+3,general,supervised learning
+4,supervised learning,regression
+5,general,education
+6,education,university
+7,general,engineering
+8,engineering,automation
+9,general,devops
+10,devops,automation
+11,general,analytics
+12,analytics,powerbi
+13,general,bi
+14,bi,powerbi
+15,general,software development
+16,software development,agile
+17,software development,scrum
+18,general,software development process
+19,software development process,agile
+20,software development process,scrum
+21,general,agile software development
+22,agile software development,agile
+23,general,software development life cycle
+24,software development life cycle,agile
+25,software development life cycle,scrum
+26,general,software development project
+27,software development project,agile
+28,software development project,scrum
+29,general,knowledge
+30,knowledge,agile
+31,knowledge,scrum
+32,knowledge,automation test
+33,general,test
+34,test,integration test
+35,general,computer software maintenance
+36,computer software maintenance,regression test
+37,general,regression analysis
+38,regression analysis,regression test
+39,general,statistic
+40,statistic,regression test
+41,general,correlation analysis
+42,correlation analysis,regression test
+43,general,statistical model
+44,statistical model,regression test
+45,general,statistical analysis
+46,statistical analysis,regression test
+47,general,software architecture
+48,software architecture,software developer
+49,general,software design
+50,software design,software quality
+51,general,architecture
+52,architecture,quality assurance
+53,ai engineer,supervised learning
+55,data science,supervised learning
+57,data science,bi
+59,data science,analytics
+61,devops,devops
+63,devops,analytics
+65,devops,knowledge
+68,fullstack,analytics
+70,fullstack,knowledge
+73,backend,knowledge
+76,frontend,knowledge
+80,android,test
+82,android,architecture

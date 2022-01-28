@@ -1,0 +1,142 @@
+,from,to
+0,general,information technology
+1,information technology,ebusiness
+2,general,io developer
+3,io developer,project
+4,io developer,testing
+5,general,computer science
+6,computer science,software
+7,general,activity
+8,activity,task
+9,general,education
+10,education,university
+11,general,programming language
+12,programming language,cs
+13,programming language,html
+14,programming language,c
+15,programming language,javascript
+16,general,frontend developer
+17,frontend developer,framework
+18,frontend developer,testing
+19,frontend developer,knowledge
+20,general,multiview video coding
+21,multiview video coding,mvc
+22,general,multi view video coding
+23,multi view video coding,mvc
+24,general,knowledge
+25,knowledge,unit testing
+26,knowledge,api
+27,knowledge,oop
+28,knowledge,data structure
+29,knowledge,mvc
+30,knowledge,agile
+31,knowledge,scrum
+32,general,presentation
+33,presentation,mvc
+34,general,software architecture
+35,software architecture,software developer
+36,software architecture,software development
+37,software architecture,mvc
+38,software architecture,software development process
+39,software architecture,design pattern
+40,general,relational database system
+41,relational database system,sql
+42,general,relational database
+43,relational database,sql
+44,general,database
+45,database,sql
+46,general,devops
+47,devops,testing
+48,devops,knowledge
+49,general,software design
+50,software design,cmmi
+51,general,software development
+52,software development,agile
+53,software development,scrum
+54,general,software development process
+55,software development process,agile
+56,software development process,scrum
+57,general,software development life cycle
+58,software development life cycle,agile
+59,software development life cycle,scrum
+60,general,software development project
+61,software development project,agile
+62,software development project,scrum
+63,general,agile software development
+64,agile software development,agile
+65,general,xml
+66,xml,html
+67,general,user interface
+68,user interface,html
+69,general,extensible markup language %28xml%29
+70,extensible markup language %28xml%29,html
+71,general,extensible markup language
+72,extensible markup language,html
+73,general,javascript
+74,javascript,cs
+75,general,html
+76,html,cs
+77,general,hypertext markup language
+78,hypertext markup language,cs
+79,general,hypertext markup language %28html%29
+80,hypertext markup language %28html%29,cs
+81,general,world wide web
+82,world wide web,javascript
+83,general,scripting language
+84,scripting language,javascript
+85,general,framework
+86,framework,vuejs
+87,framework,.net core
+88,framework,angular
+89,general,hosting
+90,hosting,azure
+91,general,data persistence
+92,data persistence,cloud
+93,general,architectural style
+94,architectural style,microservices
+95,architectural style,microservice architecture
+96,architectural style,microservices architecture
+97,general,architectural pattern
+98,architectural pattern,microservices
+99,architectural pattern,microservice architecture
+100,architectural pattern,microservices architecture
+101,general,architecture type
+102,architecture type,microservices
+103,architecture type,microservice architecture
+104,architecture type,microservices architecture
+105,general,software architecture pattern
+106,software architecture pattern,microservices
+107,software architecture pattern,microservice architecture
+108,software architecture pattern,microservices architecture
+109,general,android developer
+110,android developer,architecture
+111,general,orm
+112,orm,entity framework
+113,general,object oriented programming
+114,object oriented programming,design pattern
+115,general,testing
+116,testing,unit testing
+117,general,software product
+118,software product,software development process
+119,software product,software development
+120,general,software project
+121,software project,software development process
+122,software project,software development
+123,general,software process
+124,software process,software development process
+125,software process,software development
+126,ios,io developer
+129,ios,software architecture
+132,ios,data persistence
+134,android,activity
+136,android,presentation
+138,android,android developer
+140,devops,programming language
+149,devops,database
+151,devops,devops
+154,devops,hosting
+156,devops,orm
+158,frontend,frontend developer
+162,frontend,knowledge
+170,frontend,programming language
+174,frontend,framework

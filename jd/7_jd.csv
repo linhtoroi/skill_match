@@ -1,0 +1,121 @@
+,from,to
+0,general,distributed ledger
+1,distributed ledger,blockchain
+2,general,peer to peer system
+3,peer to peer system,blockchain
+4,general,p2p system
+5,p2p system,blockchain
+6,general,p2p network
+7,p2p network,blockchain
+8,general,p2p
+9,p2p,blockchain
+10,general,p2p application
+11,p2p application,blockchain
+12,general,cryptography
+13,cryptography,blockchain
+14,general,peer to peer network
+15,peer to peer network,blockchain
+16,general,peer to peer technology
+17,peer to peer technology,blockchain
+18,general,peer to peer
+19,peer to peer,blockchain
+20,general,peer to peer %28p2p%29
+21,peer to peer %28p2p%29,blockchain
+22,general,peer to peer %28p2p%29 network
+23,peer to peer %28p2p%29 network,blockchain
+24,general,computer science
+25,computer science,software
+26,general,frontend developer
+27,frontend developer,programming language
+28,frontend developer,testing
+29,frontend developer,knowledge
+30,general,backend developer
+31,backend developer,programming language
+32,backend developer,testing
+33,backend developer,knowledge
+34,general,fullstack developer
+35,fullstack developer,programming language
+36,fullstack developer,testing
+37,fullstack developer,knowledge
+38,general,devops
+39,devops,programming language
+40,devops,testing
+41,devops,knowledge
+42,general,io developer
+43,io developer,programming languagues
+44,io developer,testing
+45,general,supervised learning
+46,supervised learning,classification
+47,general,information technology
+48,information technology,ebusiness
+49,general,pwa
+50,pwa,location
+51,general,education
+52,education,university
+53,general,software development
+54,software development,agile
+55,general,software development process
+56,software development process,agile
+57,general,agile software development
+58,agile software development,agile
+59,general,software development life cycle
+60,software development life cycle,agile
+61,general,software development project
+62,software development project,agile
+63,general,knowledge
+64,knowledge,agile
+65,general,scripting language
+66,scripting language,python
+67,scripting language,javascript
+68,general,programming language
+69,programming language,python
+70,programming language,javascript
+71,general,world wide web
+72,world wide web,javascript
+73,general,smartcard
+74,smartcard,password
+75,general,smart card
+76,smart card,password
+77,general,objective c
+78,objective c,block
+79,general,fpga
+80,fpga,logic design
+81,general,field programmable gate array
+82,field programmable gate array,logic design
+83,general,field programmable gate array %28fpga%29
+84,field programmable gate array %28fpga%29,logic design
+85,general,computer programming language
+86,computer programming language,programming language
+87,general,linguistics
+88,linguistics,programming language
+89,general,datascience
+90,datascience,programming language
+91,general,ai engineer
+92,ai engineer,programming language
+93,general,android developer
+94,android developer,programming language
+95,general,distributed computer system
+96,distributed computer system,distributed system
+97,backend,hosting
+98,hosting,platform
+99,backend,backend developer
+103,backend,knowledge
+105,backend,programming language
+108,devops,hosting
+110,devops,devops
+119,fullstack,hosting
+121,fullstack,fullstack developer
+125,fullstack,knowledge
+127,fullstack,programming language
+130,frontend,frontend developer
+134,frontend,pwa
+136,frontend,knowledge
+138,frontend,programming language
+140,ios,io developer
+143,ios,objective c
+145,ai engineer,supervised learning
+150,ai engineer,ai engineer
+152,data science,supervised learning
+154,data science,programming language
+157,data science,datascience
+159,android,android developer

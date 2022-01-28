@@ -1,0 +1,29 @@
+,from,to
+0,general,computer science
+1,computer science,software
+2,general,object oriented programming
+3,object oriented programming,java
+4,general,computer programming language
+5,computer programming language,java
+6,general,high level language
+7,high level language,java
+8,general,programming language
+9,programming language,java
+10,general,app component
+11,app component,service
+12,general,datascience
+13,datascience,tool
+14,general,ai engineer
+15,ai engineer,tool
+16,general,testing
+17,testing,selenium
+18,general,software architecture
+19,software architecture,architecture design
+20,general,security of data
+21,security of data,security system
+22,general,cryptography
+23,cryptography,security system
+24,general,information quality
+25,information quality,system quality
+26,general,service quality
+27,service quality,system quality

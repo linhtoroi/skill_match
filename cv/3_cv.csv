@@ -1,0 +1,38 @@
+,from,to
+0,general,xml
+1,xml,html
+2,general,user interface
+3,user interface,html
+4,general,extensible markup language %28xml%29
+5,extensible markup language %28xml%29,html
+6,general,extensible markup language
+7,extensible markup language,html
+8,general,programming language
+9,programming language,cs
+10,programming language,php
+11,programming language,html
+12,general,javascript
+13,javascript,cs
+14,general,html
+15,html,cs
+16,general,hypertext markup language
+17,hypertext markup language,cs
+18,general,hypertext markup language %28html%29
+19,hypertext markup language %28html%29,cs
+20,general,scripting language
+21,scripting language,php
+22,general,architecture component
+23,architecture component,room
+24,general,knowledge
+25,knowledge,algorithm
+26,general,fullstack developer
+27,fullstack developer,build
+28,general,mobile telecommunication system
+29,mobile telecommunication system,handover
+30,mobile telecommunication system,hand over
+31,general,internet protocol
+32,internet protocol,handover
+33,internet protocol,hand over
+34,fullstack,programming language
+38,fullstack,knowledge
+40,fullstack,fullstack developer

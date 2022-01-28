@@ -1,0 +1,31 @@
+,from,to
+0,general,app component
+1,app component,service
+2,general,electronic commerce
+3,electronic commerce,contract
+4,general,e commerce
+5,e commerce,contract
+6,general,e commerce system
+7,e commerce system,contract
+8,general,economics
+9,economics,investment
+10,general,information technology
+11,information technology,ebusiness
+12,general,computer system
+13,computer system,database
+14,general,knowledge
+15,knowledge,database
+16,general,datascience
+17,datascience,database
+18,general,ai engineer
+19,ai engineer,database
+20,general,machine learning
+21,machine learning,training
+22,general,project
+23,project,target
+24,general,energy utilization
+25,energy utilization,office building
+26,general,sale
+27,sale,customer service
+28,general,human computer interaction
+29,human computer interaction,video game

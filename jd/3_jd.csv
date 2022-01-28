@@ -1,0 +1,34 @@
+,from,to
+0,general,pwa
+1,pwa,location
+2,general,scripting language
+3,scripting language,php
+4,general,programming language
+5,programming language,php
+6,general,sensor
+7,sensor,position
+8,general,database
+9,database,aws
+10,general,hosting
+11,hosting,aws
+12,general,monitoring
+13,monitoring,aws
+14,general,information system
+15,information system,elearning
+16,general,education
+17,education,elearning
+18,general,world wide web
+19,world wide web,web application
+20,general,sale
+21,sale,customer requirement
+22,general,product design
+23,product design,customer requirement
+24,general,knowledge
+25,knowledge,data structure
+26,fullstack,programming language
+28,fullstack,database
+30,fullstack,monitoring
+32,fullstack,hosting
+34,fullstack,knowledge
+36,ai engineer,database
+38,data science,database

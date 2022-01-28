@@ -1,0 +1,75 @@
+,from,to
+0,general,scripting language
+1,scripting language,python
+2,general,programming language
+3,programming language,python
+4,general,framework
+5,framework,vuejs
+6,framework,django
+7,general,architecture
+8,architecture,code
+9,general,cocoa touch
+10,cocoa touch,background
+11,general,machine learning
+12,machine learning,training
+13,general,computer system
+14,computer system,database
+15,general,knowledge
+16,knowledge,restful
+17,knowledge,database
+18,knowledge,api
+19,knowledge,oop
+20,general,datascience
+21,datascience,programming language
+22,datascience,database
+23,datascience,tool
+24,general,ai engineer
+25,ai engineer,programming language
+26,ai engineer,database
+27,ai engineer,tool
+28,general,database
+29,database,mysql
+30,database,postgresql
+31,general,rest
+32,rest,restful
+33,general,computer science
+34,computer science,software
+35,general,frontend developer
+36,frontend developer,programming language
+37,frontend developer,tool
+38,general,source control
+39,source control,svn
+40,source control,git
+41,general,deploy
+42,deploy,svn
+43,general,test
+44,test,unit test
+45,general,testing
+46,testing,unit test
+47,general,computer programming language
+48,computer programming language,programming language
+49,general,linguistics
+50,linguistics,programming language
+51,general,android developer
+52,android developer,programming language
+53,general,world wide web
+54,world wide web,web application
+55,general,object oriented programming
+56,object oriented programming,design pattern
+57,general,software architecture
+58,software architecture,software development
+59,software architecture,design pattern
+60,general,software product
+61,software product,software development
+62,general,software project
+63,software project,software development
+64,general,software process
+65,software process,software development
+66,android,architecture
+68,android,test
+70,android,android developer
+72,frontend,framework
+74,frontend,rest
+76,frontend,knowledge
+79,frontend,frontend developer
+82,frontend,source control

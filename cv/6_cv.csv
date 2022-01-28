@@ -1,0 +1,54 @@
+,from,to
+0,general,computer science
+1,computer science,software
+2,general,economics
+3,economics,sale
+4,general,computer system
+5,computer system,database
+6,general,knowledge
+7,knowledge,database
+8,general,datascience
+9,datascience,database
+10,general,ai engineer
+11,ai engineer,database
+12,general,multithreading and concurrency
+13,multithreading and concurrency,operation
+14,general,sensor
+15,sensor,camera
+16,general,architecture component
+17,architecture component,room
+18,general,machine learning
+19,machine learning,training
+20,general,app component
+21,app component,service
+22,general,fundamental
+23,fundamental,reporting
+24,general,architecture
+25,architecture,code
+26,architecture,presentation
+27,general,information technology
+28,information technology,it infrastructure
+29,information technology,ebusiness
+30,general,instrument
+31,instrument,network
+32,general,information system
+33,information system,elearning
+34,information system,it infrastructure
+35,general,education
+36,education,elearning
+37,general,software architecture
+38,software architecture,software developer
+39,general,cloud computing
+40,cloud computing,it infrastructure
+41,general,software engineering
+42,software engineering,source code
+43,general,software design
+44,software design,software system
+45,general,object oriented programming
+46,object oriented programming,software system
+47,general,sale
+48,sale,customer service
+49,android,sensor
+51,android,architecture component
+53,android,app component
+55,android,architecture

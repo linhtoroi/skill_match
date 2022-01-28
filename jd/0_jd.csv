@@ -1,0 +1,21 @@
+,from,to
+0,general,quality assurance
+1,quality assurance,test
+2,general,monitoring
+3,monitoring,jira
+4,general,computer science
+5,computer science,software
+6,general,economics
+7,economics,commerce
+8,general,frontend developer
+9,frontend developer,knowledge
+10,general,devops
+11,devops,knowledge
+12,general,information technology
+13,information technology,e commerce
+14,information technology,ebusiness
+15,general,internet
+16,internet,e commerce
+17,devops,monitoring
+19,devops,devops
+21,frontend,frontend developer

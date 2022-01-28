@@ -1,0 +1,43 @@
+,from,to
+0,general,computer science
+1,computer science,software
+2,general,activity
+3,activity,task
+4,general,frontend developer
+5,frontend developer,knowledge
+6,general,fullstack developer
+7,fullstack developer,database
+8,fullstack developer,knowledge
+9,general,hosting
+10,hosting,azure
+11,general,data persistence
+12,data persistence,cloud
+13,general,relational database system
+14,relational database system,sql
+15,general,relational database
+16,relational database,sql
+17,general,database
+18,database,sql
+19,general,computer system
+20,computer system,database
+21,general,knowledge
+22,knowledge,database
+23,general,datascience
+24,datascience,database
+25,general,ai engineer
+26,ai engineer,database
+27,general,foundation
+28,foundation,networking
+29,general,object oriented programming
+30,object oriented programming,object oriented
+31,general,query language
+32,query language,relational database
+33,general,knowledge based system
+34,knowledge based system,relational database
+35,general,computer programming
+36,computer programming,object oriented programming
+37,computer programming,object-oriented programming
+38,android,activity
+40,frontend,frontend developer
+42,fullstack,fullstack developer
+45,fullstack,database

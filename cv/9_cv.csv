@@ -1,0 +1,45 @@
+,from,to
+0,general,io developer
+1,io developer,project
+2,general,economics
+3,economics,sale
+4,economics,commerce
+5,general,android developer
+6,android developer,architecture
+7,general,architecture
+8,architecture,presentation
+9,general,fundamental
+10,fundamental,reporting
+11,general,activity
+12,activity,task
+13,general,computer science
+14,computer science,software
+15,general,project
+16,project,target
+17,general,information technology
+18,information technology,e commerce
+19,information technology,ebusiness
+20,general,app component
+21,app component,activity
+22,general,instrument
+23,instrument,activity
+24,general,multithreading and concurrency
+25,multithreading and concurrency,operation
+26,general,electronic commerce
+27,electronic commerce,purchasing
+28,general,sale
+29,sale,purchasing
+30,general,e commerce
+31,e commerce,purchasing
+32,general,e commerce system
+33,e commerce system,purchasing
+34,general,internet
+35,internet,e commerce
+36,ios,io developer
+38,ios,project
+40,ios,instrument
+42,ios,multithreading and concurrency
+44,android,android developer
+46,android,architecture
+48,android,activity
+50,android,app component
